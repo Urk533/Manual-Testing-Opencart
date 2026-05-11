@@ -44,7 +44,6 @@ This repository contains:
 - Test Plan
 - Test Cases
 - Bug Reports
-- Screenshots
 
 ---
 
@@ -52,16 +51,5 @@ This repository contains:
 - Microsoft Excel
 - Google Chrome
 - GitHub
-
----
-
-## 📁 Repository Structure
-
-```text
-OpenCart-Manual-Testing/
-│
-├── README.md
-├── Test_Plan.docx
-├── Test_Cases.xlsx
 ├── Bug_Report.xlsx
 └── screenshots/
