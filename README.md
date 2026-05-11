@@ -51,5 +51,3 @@ This repository contains:
 - Microsoft Excel
 - Google Chrome
 - GitHub
-├── Bug_Report.xlsx
-└── screenshots/
